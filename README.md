@@ -1,2 +1,2 @@
 ﻿# VueHighlight
-it is doen
+it is done
